@@ -16,7 +16,7 @@
     "url": "https://github.com/norvca/get-random-person/issues"
   },
   "homepage": "https://github.com/norvca/get-random-person#readme",
-  "devDependencies": {
+  "dependencies": {
     "unique-random-array": "1.0.0"
   }
 }
