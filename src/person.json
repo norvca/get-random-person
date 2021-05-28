@@ -1,6 +1,43 @@
 [
   {
     "gender": "male",
+    "name": { "title": "Mr", "first": "Darth", "last": "Vader" },
+    "location": {
+      "street": { "number": 2717, "name": "W Campbell Ave" },
+      "city": "El Monte",
+      "state": "Arkansas",
+      "country": "United States",
+      "postcode": 69762,
+      "coordinates": { "latitude": "-58.6547", "longitude": "-22.8728" },
+      "timezone": {
+        "offset": "+11:00",
+        "description": "Magadan, Solomon Islands, New Caledonia"
+      }
+    },
+    "email": "tim.willis@example.com",
+    "login": {
+      "uuid": "eff4e41a-6508-479f-b630-47d63d8be433",
+      "username": "bluebear370",
+      "password": "happy1",
+      "salt": "xvcHDL9C",
+      "md5": "fec6530ed33a2e4ecc98bbecbfcecafe",
+      "sha1": "5456b205a72d4206a6e5669a7c98919b73f11032",
+      "sha256": "71ce89e8959a44d970ac9386ac78e3340ff98da7dbc7e6cc6be7fdc0f73bc81d"
+    },
+    "dob": { "date": "1968-11-22T05:17:10.094Z", "age": 53 },
+    "registered": { "date": "2017-02-28T00:50:39.858Z", "age": 4 },
+    "phone": "(185)-792-2127",
+    "cell": "(031)-307-7721",
+    "id": { "name": "SSN", "value": "608-15-8409" },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/37.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/37.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/37.jpg"
+    },
+    "nat": "US"
+  },
+  {
+    "gender": "male",
     "name": { "title": "Mr", "first": "Leslie", "last": "Chavez" },
     "location": {
       "street": { "number": 9083, "name": "E North St" },
